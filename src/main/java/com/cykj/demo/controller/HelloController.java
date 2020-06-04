@@ -13,4 +13,10 @@ public class HelloController {
         return "hello world";
     }
 
+    //pull测试方法
+    public String pull(){
+    return "pull success";
+    }
+      
+    
 }
